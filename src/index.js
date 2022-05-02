@@ -5,10 +5,14 @@ import App from './App';
 import * as serviceWorker from './serviceWorker';
 import Provider from './Context/Provider';
 
+import { BrowserRouter } from 'react-router-dom';
+
 ReactDOM.render(
-  <Provider>
-    <App />
-  </Provider>,
+  <BrowserRouter basename={process.env.PUBLIC_URL}>
+    <Provider>
+      <App />
+    </Provider>
+  </BrowserRouter>,
   document.getElementById('root'),
 );
 
