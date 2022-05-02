@@ -1,0 +1,48 @@
+html {
+  margin: 0;
+  padding: 0;
+}
+
+.meals {
+  align-items: center;
+  background: #0fa36b;
+  color: #464646;
+  display: flex;
+  flex-direction: column;
+  font-family: sans-serif;
+  height: 100vh;
+  justify-content: center;
+  width: 100%;
+}
+
+.inputCheck:checked + .labelCheck {
+  text-decoration: line-through;
+}
+
+.meals > .logo {
+  animation: shake 1.5s infinite ease;
+  color: aliceblue;
+  font-family: Montserrat , sans-serif;
+  font-size: 3em;
+  font-weight: 900;
+}
+
+.login-cont {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.informe {
+  color: rgb(0, 0, 0);
+  font-size: larger;
+  font-weight: bolder;
+  text-shadow: rgb(255, 153, 0) 1px 1px;
+}
+
+@media screen and (max-width: 600px) {
+  .informe {
+    visibility: hidden;
+  }
+}
