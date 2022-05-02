@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "662fb40e168d25d6604b3b17d2f1718c",
+    "revision": "df114248f82776d4ae68f590b2777ced",
     "url": "/Menu-Recipes/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Menu-Recipes/static/css/2.3661fc73.chunk.css"
   },
   {
-    "revision": "e45fa4fc9504b154e671",
-    "url": "/Menu-Recipes/static/css/main.d3bc1e96.chunk.css"
+    "revision": "2bbe6260ad1f6ad43f69",
+    "url": "/Menu-Recipes/static/css/main.f8797572.chunk.css"
   },
   {
     "revision": "ce49941083d470093b6a",
@@ -20,12 +20,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Menu-Recipes/static/js/2.505c347b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e45fa4fc9504b154e671",
+    "revision": "2bbe6260ad1f6ad43f69",
     "url": "/Menu-Recipes/static/js/main.8d31d30d.chunk.js"
   },
   {
     "revision": "f49965dd06df1cf074e9",
     "url": "/Menu-Recipes/static/js/runtime-main.9be490ec.js"
+  },
+  {
+    "revision": "48be125a2203ecb854d351bbd8732a8b",
+    "url": "/Menu-Recipes/static/media/background.48be125a.jpg"
   },
   {
     "revision": "b89133460c9aef111d6e773396b5917d",
@@ -38,10 +42,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "157945fffa619b919f7bb65fe11b7b43",
     "url": "/Menu-Recipes/static/media/exploreIcon.157945ff.svg"
-  },
-  {
-    "revision": "c15ea66c4cf4044ff328ceb3633d5fd8",
-    "url": "/Menu-Recipes/static/media/fundoApp.c15ea66c.jpg"
   },
   {
     "revision": "c3356a6110cd1253117160e073d28924",
